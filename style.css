@@ -46,6 +46,10 @@
     color: #444444;
     font-size: 15px;
 }
+.logo-size{
+    height:200px;
+}
+
 
 .result-url {
     color: #006621;
